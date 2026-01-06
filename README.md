@@ -1,4 +1,4 @@
-# Midterm Submission - Financial News and Stock Data Analysis
+# Midterm Submission - Predicting Stock Volatility Using Financial News Sentiment Analysis
 The task was to work with real financial data and create a complete data pipeline, from data collection to basic analysis.
 
 ## Approach
